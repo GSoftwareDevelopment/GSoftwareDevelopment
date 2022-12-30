@@ -1,21 +1,17 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on ...
+-
 Lately, my time has been occupied mostly with small Atari. I create for the 8-bit community. I support with my knowledge and skills.
+
 If you think that what I do has SENSE - support and [![ByMeCaffee](/bmc.png)](https://www.buymeacoffee.com/PeBe)
 
-
-
-<!--
-**GSoftwareDevelopment/GSoftwareDevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
+
+ATARI 8-Bit :) 
+
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[Facebook](https://www.facebook.com/pe.be.7587370/)
+
+Thanks, for Your attention
